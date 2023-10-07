@@ -4,6 +4,7 @@
 
 #### [Computer Architecture and organization](https://www.youtube.com/playlist?list=PLG9aCp4uE-s0xddCBjwMDnEVyc523WbA2) by gothi sir
 #### [Digital Logic](https://www.youtube.com/playlist?list=PLG9aCp4uE-s3p4NAxutnKNjKeyIPZixy8) by Amit khurana sir
+#### [Discrete mathematics](https://www.youtube.com/playlist?list=PLC36xJgs4dxEYmhzVBW7nBdftFZ4xmiF1) by Amit khurana sir
 
 
 - #### [Data Structures](https://m.youtube.com/playlist?list=PLG9aCp4uE-s0j5Er7XarVwb2Vl-s0z-OJ) by Viswadeep Gothi sir
