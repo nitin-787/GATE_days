@@ -13,4 +13,4 @@
 
 #### Visvadeep gothi - DBMS, OS, DS and programming, COA
 #### Amit khurana - Digital logic
-#### Math (Discrete and engg) - khan academy, Cd, theory of Computation, aptitude, Algo
+#### Math (Discrete and engg) - khan academy, Compiler design, theory of Computation, aptitude, Algo
